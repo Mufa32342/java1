@@ -17,8 +17,10 @@ public class Arraysoperation1
 				
 				
 			}
-			System.out.println(Multi);
+			
 			sum = sum + Multi;
+			System.out.print(Multi);
+			Multi = 1;
 			
 		}
 		
